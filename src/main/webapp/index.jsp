@@ -1,5 +1,12 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<div class="container">
+    <div id="newtask">
+        <input type="text" placeholder="Add Tasks">
+        <button id="push">Add</button>
+    </div>
+    <div id="tasks"></div>
+
+</div>
 </body>
 </html>
